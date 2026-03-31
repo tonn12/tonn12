@@ -13,4 +13,4 @@
 `*## 📌 Мои проекты:*`
 
 - `*[AI для определений вещей/существ по фото] https://github.com/tonn12/AI
-- `*[2D Game]
+- `*[2D Game] https://github.com/tonn12/2D-Game
